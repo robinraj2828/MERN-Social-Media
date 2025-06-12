@@ -27,5 +27,3 @@ A simple social media application with users, posts, likes and comments - develo
 * [MERN Mediastream](https://github.com/shamahoque/mern-mediastream)
 * [MERN VR Game](https://github.com/shamahoque/mern-vrgame)
 ----
-
----
